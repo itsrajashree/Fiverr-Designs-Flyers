@@ -29,7 +29,7 @@ This repository showcases my custom-designed flyers created using **Canva**. Eac
 ### 🧑‍💼 3. **We Are Hiring Flyer**
 - A clean and modern hiring flyer template.
 - Highlights:
-  - Job title: Assistant
+  - Job Roles
   - Eligibility and required qualifications
   - Benefits and contact info
   - A clear "We Are Hiring" header to grab attention
