@@ -1,11 +1,21 @@
 # Fiverr-Designs-Flyers
 My Fiverr gig posters, flyers, invitations &amp; branding designs.
 
-# 🎨 Canva Flyer Design Portfolio
+📁 My Canva Design Creations (PDF Portfolio)
+Take a look at my flyer and invitation designs in this PDF portfolio.
+These include:
 
-Welcome to my Canva Flyer Design Collection!  
-This repository showcases my custom-designed flyers created using **Canva**. Each design reflects a specific purpose — from promoting services and events to formal invitations — all with a focus on clarity, color balance, and visual appeal.
+🏢 Business Promotion Flyer – Lakshmi Online Center
 
+🎉 Birthday Invitation – Fun and festive party layout
+
+📢 Hiring Flyer – Clean job advertisement template
+
+💐 Floral Invitations – Elegant wedding & anniversary cards (2 versions)
+
+
+Every design was made using Canva and customized with care to meet different needs.
+I’m learning step by step and growing with each project!
 ---
 
 ## 📂 Included Designs
