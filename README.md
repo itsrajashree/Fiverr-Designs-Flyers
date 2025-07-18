@@ -57,7 +57,7 @@ This repository showcases my custom-designed flyers created using **Canva**. Eac
 I'm **Rajashree Radhakrishnan**, an aspiring digital service provider and beginner freelancer exploring Canva-based design and layout creation. These flyers represent my early journey into digital design and freelancing.
 
 📧 Email: rajashree.careerpath@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/itsrajashree) | [Fiverr](fiverr.com) | [Portfolio Website](https://itsrajashree.github.io/My-Portfolio)
+🔗 [LinkedIn](https://www.linkedin.com/in/itsrajashree) | [Fiverr – Hire Me](https://www.fiverr.com/itsrajashree) | [Portfolio Website](https://itsrajashree.github.io/My-Portfolio)
 
 ---
 
